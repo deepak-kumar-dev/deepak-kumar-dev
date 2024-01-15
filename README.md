@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello👋 I'm Deepak 👩🏻‍💻
+I am a full-stack developer.
+
+Currently, I am working with ...
+Node.js   ReactJS   TypeScript   JavaScript   Mysql   Mongo   Git   GitHub  
 
 <!--
 **deepak-kumar-dev/deepak-kumar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
