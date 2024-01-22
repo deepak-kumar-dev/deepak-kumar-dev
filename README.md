@@ -2,6 +2,19 @@
 Full-stack Software Engineer developing web apps with the help of javascript and its frameworks. Try to learn something new through every single opportunity. Passionate about building end-to-end high-performance, secure, scalable web applications.
 Keeping technical skills aside, I love to travel and bike Riding.
 
+## Experience 
+### Senior AssociateSenior Associate
+Magic EdTech · Full-time
+Dec 2020 - Feb 2023 · 2 yrs 3 months
+Noida, Uttar Pradesh, India
+Skills: Amazon Web Services (AWS) · Web Accessibility · Unit Testing · JavaScript · React.js · REST API · Redux.js · Git
+
+### Software EngineerSoftware Engineer
+ExperienceFlow · Full-time
+Sep 2018 - Dec 2020 · 2 yrs 4 months
+Bengaluru, Karnataka, India
+Skills: Amazon Web Services (AWS) · Unit Testing · JavaScript · React.js · REST API · Redux.js · Git
+
 ### Currently I am working with ...
 
 <a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
