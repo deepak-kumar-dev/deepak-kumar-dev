@@ -1,5 +1,6 @@
-## Hello👋 I'm Deepak 👩🏻‍💻 a tech enthusiast and full-stack developer from &#127470;&#127475;
-
+## Hello👋 I'm Deepak 👩🏻‍💻 from &#127470;&#127475;
+Full-stack Software Engineer developing web apps with the help of javascript and its frameworks. Try to learn something new through every single opportunity. Passionate about building end-to-end high-performance, secure, scalable web applications.
+Keeping technical skills aside, I love to travel and bike Riding.
 
 ### Currently I am working with ...
 
