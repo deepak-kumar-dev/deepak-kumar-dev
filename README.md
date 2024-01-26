@@ -7,13 +7,13 @@ Keeping technical skills aside, I love to travel and bike Riding.
 Magic EdTech · Full-time<br />
 Dec 2020 - Feb 2023 · 2 yrs 3 months<br />
 Noida, Uttar Pradesh, India<br />
-Skills: Amazon Web Services (AWS) · Web Accessibility · Unit Testing · JavaScript · React.js · REST API · Redux.js · Git
+Skills: Amazon Web Services (AWS) · Web Accessibility · Annimation · Unit Testing · JavaScript · React.js · REST API · Redux.js · Git · JIRA
 
 ### Software Engineer
 ExperienceFlow · Full-time<br />
 Sep 2018 - Dec 2020 · 2 yrs 4 months<br />
 Bengaluru, Karnataka, India<br />
-Skills: Amazon Web Services (AWS) · Unit Testing · JavaScript · React.js · REST API · Redux.js · Git
+Skills: Amazon Web Services (AWS) · Unit Testing · JavaScript · React.js · REST API · Redux.js · Git · JIRA
 
 ### Currently I am working with ...
 
